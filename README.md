@@ -2,7 +2,7 @@
 
 The Snagit (version 19.1.0.2653)
 
-The use of Object Linking and Embedding (OLE) streams obfuscate the presence of a malicious file that can be used as a dropper by adversaries. The software could possibly weaken default security privileges and changing the Windows Registry. Furhter analysis may include the use of Global Unique Identifiers (GUID).
+The use of Object Linking and Embedding (OLE) streams obfuscate the presence of a malicious file that can be used as a dropper by adversaries. The software could possibly weaken default security privileges and changing the Windows Registry (Registry_List). Furhter analysis may include the use of Global Unique Identifiers (GUID_List).
 
 References:
 
