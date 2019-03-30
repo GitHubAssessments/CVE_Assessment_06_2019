@@ -1,5 +1,7 @@
 # CVE_Assessment_06_2019
 
+The Snagit (version 19.1.0.2653)
+
 The use of Object Linking and Embedding (OLE) obfuscate the presence of malicious files that can be used as a dropper by adversaries. The software could possibly weaken default security privileges.
 
 References:
@@ -13,3 +15,5 @@ References:
 7. https://docs.microsoft.com/en-us/windows-hardware/drivers/ifs/privileges
 8. https://www.virustotal.com/gui/file/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855/details 
 9. https://www.virustotal.com/gui/file/8c212b6b8c5c643335165ae05ea776f074cfe09dcb29c1f0cfabb59fd2726da7/details 
+
+
